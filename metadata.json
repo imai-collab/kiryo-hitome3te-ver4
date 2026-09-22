@@ -1,0 +1,8 @@
+{
+  "name": "ひと目の詰み3手詰　サイトへ追加",
+  "description": "サイトへを追加\nクリア登録リンク実装",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
